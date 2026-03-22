@@ -1,8 +1,5 @@
-[python_03.ipynb](https://github.com/user-attachments/files/26166924/python_03.ipynb)# PythonExample
-
-
-
-[Uploading python_03.ipynb…{
+[Python03_ListTuple_Dictionary.ipynb](https://github.com/user-attachments/files/26166942/Python03_ListTuple_Dictionary.ipynb)
+{
  "cells": [
   {
    "cell_type": "code",
@@ -1679,5 +1676,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-]()
-
